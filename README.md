@@ -66,7 +66,7 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 ## 🤝🏻 &nbsp; Let's connect and collaborate:
 
 - 💬 Interested in engaging discussions, brainstorming sessions, or collaborative projects.
-- 📫 You can reach out to me via email at dharaneedharan.al@gmail.com. I'm always open to new opportunities and conversations!
+- 📫 You can reach out to me via email at dharaneedharan.al22@gmail.com. I'm always open to new opportunities and conversations!
 
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharaneedharan._._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneedharan-v/) 
 
