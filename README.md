@@ -44,7 +44,8 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 - Presently, I'm dedicated to obtaining a degree in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING at Bannari Amman Institute of Technology.
 - At my institute, I relentlessly delve into novel concepts, continuously expanding the horizons of my knowledge.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -52,7 +53,6 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneedharan-v&layout=compact&theme=radical" height="150"/>
 </p>
 
----
 
 ### 🔥 Contribution Streak
 
@@ -60,8 +60,8 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneedharan-v&theme=vue-dark&hide_border=true"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## 🤝🏻 &nbsp; Let's connect and collaborate:
 
