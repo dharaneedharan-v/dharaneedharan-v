@@ -2,6 +2,9 @@
 
 <h1>Hello there! 👋 I'm DHARANEEDHARAN V </h1>
 
+
+
+
 Enthusiastic about web development, I am dedicated to crafting immersive online experiences. Continuously evolving with web technologies, I strive to deliver innovative solutions. As a relentless student of the craft, I thrive on the perpetual evolution of web technologies, and I'm on a mission to leverage my technical skills.
 
 ## 🌟 Expertise Showcase:🌟
@@ -13,6 +16,72 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 🔹 Laravel Developer: Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
 
 ---
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="/git.jpg" width="200">
+      </td>
+      <td>
+        <pre>
+<!--<code>
+ class DHARANI {
+  constructor() {
+    this.name = "DHARANIDHARAN V";
+    this.role = "BACKEND ARCHITECT";
+    this.stack = ["Node.js", "Python", "AWS", "Docker"];
+    this.passion = "Crafting scalable backend ecosystems";
+    this.motto = "Code with purpose, deploy with confidence";
+  }
+  currentMission() {
+    return [
+      "Building microservices architecture",
+      "Exploring serverless computing",
+      "Mastering Kubernetes orchestration"
+    ];
+  }
+  codePhilosophy() {
+    return "Write code that tells a story, " +
+           "design systems that scale, " +
+           "and build solutions that matter.";
+  }
+  getStatus() {
+    return "Always learning, always building";
+  }
+}
+// Initialize the developer
+const developer = new DHARANI();
+console.log(developer.codePhilosophy());
+</code> -->
+<code >
+class DHARANI {
+constructor() {
+    this.name = "DHARANIDHARAN V";
+    this.role = "Backend Developer";
+    this.stack = ["Node.js", "Python", "AWS"];
+    this.passion = "Crafting robust architectures";
+  }
+
+  code() {
+    return "Scalable, secure, and optimized";
+  }
+
+  getCurrentFocus() {
+    return ["Microservices", "DevOps", "Cloud Native"];
+  }
+}
+</code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
 <h3 align="center"> Programming Languages </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
@@ -33,9 +102,14 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 </div>
 
 ---
+
+
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
+
+-->
 
 ## 🔥My Areas of Passion:
 
