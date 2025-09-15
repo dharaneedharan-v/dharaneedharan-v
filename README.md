@@ -77,6 +77,13 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 ---
 
 
+### 👁 Profile Views 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dharaneedharan-v&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dharaneedharan-v Profile Views"/> </p>
+
+---
+
+
 
 
 
