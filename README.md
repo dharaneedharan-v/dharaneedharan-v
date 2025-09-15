@@ -111,7 +111,7 @@ constructor() {
 
 -->
 
-## 🔥My Areas of Passion:
+## 🔥 My Areas of Passion:
 
 - 💡 Embracing novel technologies and innovating solutions.
 - 🌱 Nurturing continual growth, particularly within the domain of web development.
@@ -145,11 +145,15 @@ constructor() {
 ## 🤝🏻 &nbsp; Let's connect and collaborate:
 
 - 💬 Interested in engaging discussions, brainstorming sessions, or collaborative projects.
-- 📫 You can reach out to me via email at dharaneedharan.al22@gmail.com. I'm always open to new opportunities and conversations!
+- 📫 You can reach out to me via email. I'm always open to new opportunities and conversations!
 
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharaneedharan._._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneedharan-v/) 
+<div align="center">
+  <a href="https://dharaneedharan-v.me/" target="_blank"><img src="https://skillicons.dev/icons?i=devto"/></a>
+  <a href="mailto:dharaneedharan.al22@gmail.com" ><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  <a href="https://www.linkedin.com/in/dharaneedharan-v/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</div>
 
-## ✍️ Random Dev Quote :
+### ✍️ Random Dev Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
