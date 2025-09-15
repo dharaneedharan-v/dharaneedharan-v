@@ -12,22 +12,27 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 
 🔹 Laravel Developer: Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
 
+---
+<h3 align="center"> Programming Languages </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</div>
 
-### 🛠 &nbsp;Tech Stack :
+<h3 align="center"> Development Frameworks</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,laravel,flask,fastapi,mysql,postman" />
+</div>
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<h3 align="center"> DevOps & Tools :</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,ansible,grafana,jenkins,terraform,linux" />
+</div>
 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
