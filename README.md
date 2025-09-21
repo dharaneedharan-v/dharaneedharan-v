@@ -17,7 +17,11 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 
 ---
 
-
+<h3 align="center">
+	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+About Me 
+	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+</h3>
 <div align="center">
   <table>
     <tr>
@@ -55,11 +59,7 @@ Enthusiastic about web development, I am dedicated to crafting immersive online 
 const developer = new DHARANI();
 console.log(developer.codePhilosophy());
 </code> -->
-<h3 align="center">
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-About Me 
-	<img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
-</h3>
+
 <code >
 class DHARANI {
 constructor() {
