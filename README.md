@@ -133,15 +133,18 @@ constructor() {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharaneedharan-v&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneedharan-v&layout=compact&theme=radical" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dharaneedharan-v&show_icons=true&theme=radical" height="150" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dharaneedharan-v&show_icons=true&theme=radical" height="150" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneedharan-v&layout=compact&theme=radical" height="150"/> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dharaneedharan-v&layout=compact&theme=radical" height="150"/>
 </p>
 
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneedharan-v&theme=vue-dark&hide_border=true"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dharaneedharan-v&theme=radical"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneedharan-v&theme=vue-dark&hide_border=true"/> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
